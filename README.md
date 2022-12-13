@@ -1,2 +1,2 @@
-# Pre-work-study-guide
-a study guide for course pre-work
+# Prework-study-guide
+a study guide for course prework
